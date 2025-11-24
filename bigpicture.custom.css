@@ -384,7 +384,7 @@ button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active:hover:active {
 
 .rRIYiTtpDYzW3EQ2BH-Kw {
   border: 1px solid #262626;
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
 }
 
 .friendListHeaderContainer.GamepadMode,
@@ -526,8 +526,8 @@ html.tablet .delete_link.gpfocus {
 
 html.tablet .two_column .nav_item.gpfocus {
   background-color: #191919;
-  color: var(--minimal-dark-color);
-  border-left: 6px solid var(--minimal-dark-color);
+  color: var(--color);
+  border-left: 6px solid var(--color);
   transition: .25s ease-out;
 }
 
@@ -599,7 +599,7 @@ html.tablet .two_column .nav_item.gpfocus {
 ._34nl5vUoFCDYYnmHNL7axB {
   background: #121212;
   box-shadow: 0 0 7px 12px #121212;
-  color: var(--minimal-dark-color);
+  color: var(--color);
 }
 
 ._1S76C3gQf4oOTbLdTMVH0m._2QHMua1-KysYKpszTPAW_O.Panel.Focusable.gpfocus.gpfocuswithin {
@@ -687,7 +687,7 @@ button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active:hover:active {
   border: 1px solid #1a9fff;
   transform: scale(0.75, 0.75) translate(0px, 3px);
   box-shadow: 0px 1px 4px 1px rgb(0 0 0 / 40%);
-  border-radius: var(--minimal-dark-corner0);
+  border-radius: var(--corner0);
   transition: .25s ease-out;
 }
 
@@ -698,7 +698,7 @@ button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active:hover:active {
   background-image: radial-gradient(circle, rgba(2, 0, 36, 0) 10%, #06e39d40 100%);
   border: 1px solid #06e39d;
   transform: scale(0.75, 0.75) translate(0px, 3px);
-  border-radius: var(--minimal-dark-corner0);
+  border-radius: var(--corner0);
   box-shadow: 0px 1px 4px 1px rgb(0 0 0 / 40%);
   transition: .25s ease-out;
 }
@@ -722,7 +722,7 @@ button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active:hover:active {
 
 .kX-tIJx4a9vKVuUkKJARv._1wAArO4jx5Kth5YdKAQ_Sd._3BNwjsy5WltxayFptkx3KF {
   background: #121212;
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
 }
 
 .BasicUI .nzl41-vv5mljUyuT2yuYY ._25YVDTaClw6Y2COPsU0UaV {
@@ -928,7 +928,7 @@ html.tablet .carousel_container.maincap .discount_block {
   height: 99%;
   width: 99%;
   background: linear-gradient(rgba(0, 0, 0, 0), #121212 72%);
-  border: 1px solid var(--minimal-dark-border);
+  border: 1px solid var(--border);
 }
 
 .YuXdszLjIFoat_EbTkm8U ._2MUQ8QBrMaSxsdhqhiN6tG ._3yuPyNw3DpZ_ICakOPcu4u ._1uwcZwdwT2vRgumGDlZbtk ._3anY0OeVUh2enLVFNx50N1 img {
@@ -953,5 +953,5 @@ html.tablet .review_developer_response_container.multiple_listing {
 
 .GamepadMode.friendlist .friend.quickAccessFriend .nibodjvvrm86uCfnnAn4g .X_mJE4BYV5StDPwZhSiAu {
   transform: scale(0.88) translate(-8px, -8px);
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
 }

@@ -8,7 +8,7 @@
 
 .DesktopUI #popup_target .title-area-icon.closeButton {
   transition: .25s ease-out;
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }
@@ -25,7 +25,7 @@
 
 ._1ENHEsrSLcTRtPQFl1F-wL.Maximized._1DvwQt0JN-Ogp_4tVZdkzX .title-area-icon.closeButton {
   transition: .25s ease-out;
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 0px;
 }
 
@@ -36,37 +36,37 @@
 }
 
 .friendsui-container .title-area-icon.closeButton {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }
 
 .friendsui-container .title-area-icon.closeButton:hover {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }
 
 .friendsui-container .title-area-icon.closeButton:active {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }
 
 html.friendsui-container.client_chat_frame.fullheight.SavedDimensionsPopup.core .title-area-icon.closeButton {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }
 
 html.friendsui-container.client_chat_frame.fullheight.SavedDimensionsPopup.core .title-area-icon.closeButton:hover {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }
 
 html.friendsui-container.client_chat_frame.fullheight.SavedDimensionsPopup.core .title-area-icon.closeButton:active {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   border-top-right-radius: 7px;
   border-bottom-right-radius: 0px;
 }

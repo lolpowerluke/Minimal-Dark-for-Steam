@@ -1,7 +1,7 @@
 ._1AMAp6cciTbpuVe8FTH3rK {
   box-shadow: 0 10px 32px 0px #000000ab;
-  border-radius: var(--minimal-dark-corner);
-  border: 1px solid var(--minimal-dark-border);
+  border-radius: var(--corner);
+  border: 1px solid var(--border);
   height: auto;
   background: rgb(18 18 18 / 75%);
   backdrop-filter: blur(10px);
@@ -30,7 +30,7 @@
 }
 
 ._1s3b90MDEzWiXAzyEg4vu2 ._2HU_E-2SbIBuGTf-28tVgU {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   margin-left: 8px;
   margin-right: 6px;
 }
@@ -45,11 +45,11 @@
 }
 
 ._3QoRRxsgnDolcCPCrAPm47 ._2rDsqxyJxBWUKDmY1lZ1Vw img {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
 }
 
 ._3QoRRxsgnDolcCPCrAPm47 ._2rDsqxyJxBWUKDmY1lZ1Vw {
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
 }
 
 ._1xTATKELHR-lRS_s3A4yzd ._3CZcHyWskP9Hc5t7AOo75A {

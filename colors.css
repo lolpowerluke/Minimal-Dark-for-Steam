@@ -1,118 +1,126 @@
 :root {
   /*
-  * @name minimal dark background for the entire application
+  * @name background for the appliction header
   */
-  --minimal-dark-background: #1e1e1e;
+  --bg-header: #1e1e1e;
   /*
-  * @name minimal dark color
+  * @name background for the sidebar (for example the game list in library)
   */
-  --minimal-dark-color: #808080;
+  --bg-sidebar: #1e1e1e;
   /*
-  * @name minimal dark border
+  * @name background for the application content (for example the game page in library)
   */
-  --minimal-dark-border: #262626;
+  --bg-content: #1e1e1e;
   /*
-  * @name minimal dark border hover
+  * @name color
   */
-  --minimal-dark-border-hover: #464646;
+  --color: #808080;
   /*
-  * @name minimal dark popup background
+  * @name border
   */
-  --minimal-dark-bg-popup: #262626;
+  --border: #262626;
   /*
-  * @name minimal dark black
+  * @name border hover
   */
-  --minimal-dark-black: #1e1e1e;
+  --border-hover: #464646;
   /*
-  * @name minimal dark blacker
+  * @name popup background
   */
-  --minimal-dark-blacker: #191919;
+  --bg-popup: #262626;
   /*
-  * @name minimal dark blacker alt
+  * @name black
   */
-  --minimal-dark-blacker-alt: #121212;
+  --black: #1e1e1e;
   /*
-  * @name minimal dark blacker alt1
+  * @name blacker
   */
-  --minimal-dark-blacker-alt1: #101010;
+  --blacker: #191919;
   /*
-  * @name minimal dark blacker alt2
+  * @name blacker alt
   */
-  --minimal-dark-blacker-alt2: #0c0c0c;
+  --blacker-alt: #121212;
   /*
-  * @name minimal dark topgrey
+  * @name blacker alt1
   */
-  --minimal-dark-topgrey: #8b929a;
+  --blacker-alt1: #101010;
   /*
-  * @name minimal dark topgrey1
+  * @name blacker alt2
   */
-  --minimal-dark-topgrey1: #b9bec4;
+  --blacker-alt2: #0c0c0c;
   /*
-  * @name minimal dark greyblack
+  * @name topgrey
   */
-  --minimal-dark-greyblack: #2e2e2f;
+  --topgrey: #8b929a;
   /*
-  * @name minimal dark invisiblegrey
+  * @name topgrey1
   */
-  --minimal-dark-invisiblegrey: #2d2d2d;
+  --topgrey1: #b9bec4;
   /*
-  * @name minimal dark browser overlay close
+  * @name greyblack
   */
-  --minimal-dark-browser-overlay-close: #a0de63;
+  --greyblack: #2e2e2f;
   /*
-  * @name minimal dark red2
+  * @name invisiblegrey
   */
-  --minimal-dark-red2: #f12446;
+  --invisiblegrey: #2d2d2d;
+  /*
+  * @name browser overlay close
+  */
+  --browser-overlay-close: #a0de63;
+  /*
+  * @name red2
+  */
+  --red2: #f12446;
     /*
-  * @name minimal dark red2
+  * @name red2
   */
-  --minimal-dark-red2-rgba: #f12446;
+  --red2-rgba: #f12446;
   /*
-  * @name minimal dark redsettings
+  * @name redsettings
   */
-  --minimal-dark-redsettings: #bf3d3d;
+  --redsettings: #bf3d3d;
   /*
-  * @name minimal dark greensettings
+  * @name greensettings
   */
-  --minimal-dark-greensettings: #5aa05a;
+  --greensettings: #5aa05a;
   /*
-  * @name minimal dark status green
+  * @name status green
   */
-  --minimal-dark-status-green: #06e39d;
+  --status-green: #06e39d;
   /*
-  * @name minimal dark less white
+  * @name less white
   */
-  --minimal-dark-less-white: #dcdcdc;
+  --less-white: #dcdcdc;
   /*
-  * @name minimal dark progress bar
+  * @name progress bar
   */
-  --minimal-dark-progress-bar: #21d083;
+  --progress-bar: #21d083;
   /*
-  * @name minimal dark currency
+  * @name currency
   */
-  --minimal-dark-currency: #d6d6df;
+  --currency: #d6d6df;
   /*
-  * @name minimal dark installed games
+  * @name installed games
   */
-  --minimal-dark-installed-games: #d6cab7;
+  --installed-games: #d6cab7;
   /*
-  * @name minimal dark left side game header gradient in library sidebar
+  * @name left side game header gradient in library sidebar
   */
-  --minimal-dark-sidebar-game-header-gradient-1: #121212;
+  --sidebar-game-header-gradient-1: #121212;
   /*
-  * @name minimal dark right side game header gradient in library sidebar
+  * @name right side game header gradient in library sidebar
   */
-  --minimal-dark-sidebar-game-header-gradient-2: #121212;
+  --sidebar-game-header-gradient-2: #121212;
   /*
-  * @name minimal dark left side game gradient in library sidebar
+  * @name left side game gradient in library sidebar
   */
-  --minimal-dark-sidebar-game-gradient-1: #121212;
+  --sidebar-game-gradient-1: #121212;
   /*
-  * @name minimal dark right side game gradient in library sidebar
+  * @name right side game gradient in library sidebar
   */
-  --minimal-dark-sidebar-game-gradient-2: #121212;
+  --sidebar-game-gradient-2: #121212;
   /*
-  * @name minimal dark topbar selected tab color
+  * @name topbar selected tab color
   */
-  --minimal-dark-topbar-selected-tab: #ffffff;
+  --topbar-selected-tab: #ffffff;
 }

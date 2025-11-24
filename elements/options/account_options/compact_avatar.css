@@ -7,13 +7,13 @@
   font-size: 0px;
   transition: .25s ease-out;
   color: transparent;
-  border: 1px solid var(--minimal-dark-border);
+  border: 1px solid var(--border);
   margin: 0;
 }
 
 .tool-tip-source:has(> ._2Lu3d-5qLmW4i19ysTt2jT):active ._3yD46y5pd3zOGR7CzKs0mC,
 .tool-tip-source:has(> ._2Lu3d-5qLmW4i19ysTt2jT):hover ._3yD46y5pd3zOGR7CzKs0mC {
-  background: var(--minimal-dark-blacker);
+  background: var(--blacker);
   font-size: 12px;
   color: #4cb4ff;
 }

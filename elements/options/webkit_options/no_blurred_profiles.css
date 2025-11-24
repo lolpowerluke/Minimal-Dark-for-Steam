@@ -1,11 +1,11 @@
 .profile_header_content {
-  background: var(--minimal-dark-blacker-alt);
+  background: var(--blacker-alt);
 }
 
 .profile_customization {
-  background: var(--minimal-dark-blacker-alt);
+  background: var(--blacker-alt);
 }
 
 .profile_rightcol {
-  background: var(--minimal-dark-blacker-alt);
+  background: var(--blacker-alt);
 }

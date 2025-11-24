@@ -1,15 +1,15 @@
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._3uMa3icVa3JTCGQKPeUikO,
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._2kWWyBO7w_F76NB8sBw86c {
   margin-right: 3px;
-  border: 1px solid var(--minimal-dark-border);
+  border: 1px solid var(--border);
   padding: 3px;
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   transition: .25s ease-out;
 }
 
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._3uMa3icVa3JTCGQKPeUikO:hover,
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._2kWWyBO7w_F76NB8sBw86c:hover {
-  border: 1px solid var(--minimal-dark-color);
+  border: 1px solid var(--color);
   transition: .25s ease-out;
 }
 
@@ -32,9 +32,9 @@
 .bsNegRKT1Hbv4tqHrOk9- ._14b-hQsLwSwYcELtknxCUX,
 .bsNegRKT1Hbv4tqHrOk9- ._3IIEUTw03Vm3Mk54jlnUaT {
   margin-right: 3px;
-  border: 1px solid var(--minimal-dark-border);
+  border: 1px solid var(--border);
   padding: 3px;
-  border-radius: var(--minimal-dark-corner);
+  border-radius: var(--corner);
   transition: .25s ease-out;
 }
 
@@ -56,29 +56,29 @@
 
 .bsNegRKT1Hbv4tqHrOk9- ._14b-hQsLwSwYcELtknxCUX:hover,
 .bsNegRKT1Hbv4tqHrOk9- ._3IIEUTw03Vm3Mk54jlnUaT:hover {
-  background: var(--minimal-dark-blacker);
-  border: 1px solid var(--minimal-dark-color);
+  background: var(--blacker);
+  border: 1px solid var(--color);
   transition: .25s ease-out;
 }
 
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._3uMa3icVa3JTCGQKPeUikO:hover,
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._2kWWyBO7w_F76NB8sBw86c:hover {
-  background: var(--minimal-dark-blacker);
+  background: var(--blacker);
 }
 
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._3uMa3icVa3JTCGQKPeUikO:hover,
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._2kWWyBO7w_F76NB8sBw86c:hover {
-  background: var(--minimal-dark-blacker);
+  background: var(--blacker);
 }
 
 .bsNegRKT1Hbv4tqHrOk9- ._14b-hQsLwSwYcELtknxCUX:active,
 .bsNegRKT1Hbv4tqHrOk9- ._3IIEUTw03Vm3Mk54jlnUaT:active {
-  background: var(--minimal-dark-blacker);
+  background: var(--blacker);
   box-shadow: inset 0 0 8px #000000c2;
 }
 
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._3uMa3icVa3JTCGQKPeUikO:active,
 ._23SnllqT_AqZ1C_QHcNQ4Z ._29NTOneobxPjUfxHUk9N8Y ._2kWWyBO7w_F76NB8sBw86c:active {
-  background: var(--minimal-dark-blacker);
+  background: var(--blacker);
   box-shadow: inset 0 0 8px #000000c2;
 }

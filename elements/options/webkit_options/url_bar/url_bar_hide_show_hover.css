@@ -1,9 +1,9 @@
 ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K {
   padding: 0px 14px 0px 14px;
-  background: var(--minimal-dark-blacker-alt);
+  background: var(--blacker-alt);
   box-shadow: none;
   border-top: none;
-  border-bottom: 1px solid var(--minimal-dark-border);
+  border-bottom: 1px solid var(--border);
   height: 0px;
   transition: .5s ease-out;
   transform: translate(0px, 0px);
@@ -16,5 +16,5 @@
   transition: .5s ease-out;
   padding: 4px 14px 4px 14px;
   content-visibility: visible;
-  border-bottom: 1px solid var(--minimal-dark-color);
+  border-bottom: 1px solid var(--color);
 }
