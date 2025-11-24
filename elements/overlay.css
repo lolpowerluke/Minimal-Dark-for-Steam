@@ -445,17 +445,15 @@ button.DialogButton:enabled:active.gpfocus {
   transition: color .15s ease-out;
 }
 
-._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._3KaB94Jl4r0hFkthDPJy09 {
+#popup_target ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._3KaB94Jl4r0hFkthDPJy09 {
   border: 1px solid var(--border);
   border-radius: var(--corner);
+  transition: .25s ease-out;
 }
 
 ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._3KaB94Jl4r0hFkthDPJy09:hover {
-  margin-top: 1px;
   border: 1px solid var(--color);
-  border-radius: var(--corner);
   background: var(--blacker);
-  transition: .25s ease-out;
 }
 
 .achieveBarProgress {
