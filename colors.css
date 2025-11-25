@@ -114,11 +114,27 @@
   /*
   * @name left side game gradient in library sidebar
   */
-  --sidebar-game-gradient-1: #121212;
+  --sidebar-game-gradient-1: #000000;
   /*
   * @name right side game gradient in library sidebar
   */
-  --sidebar-game-gradient-2: #121212;
+  --sidebar-game-gradient-2: #000000;
+  /*
+  * @name left side game gradient in library sidebar (hover color)
+  */
+  --sidebar-hover-game-gradient-1: #313131;
+  /*
+  * @name right side game gradient in library sidebar (hover color)
+  */
+  --sidebar-hover-game-gradient-2: #000000;
+  /*
+  * @name left side game gradient in library sidebar (active color)
+  */
+  --sidebar-active-game-gradient-1: #555555;
+  /*
+  * @name right side game gradient in library sidebar (active color)
+  */
+  --sidebar-active-game-gradient-2: #000000;
   /*
   * @name topbar selected tab color
   */
