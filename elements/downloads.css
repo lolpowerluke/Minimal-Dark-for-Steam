@@ -21,7 +21,7 @@
 
 ._1VNuYHM6BPBOJspC6zPf5r.IbePLaw-vSvhG1GTenYFg {
   background-color: var(--blacker-alt);
-  border-top: 1px solid var(--border);
+  /* border-top: 1px solid var(--border); */
   border-bottom: 1px solid var(--border);
   border-radius: var(--corner);
   width: 100%;
