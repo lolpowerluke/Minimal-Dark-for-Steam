@@ -25,6 +25,9 @@
 .title-area {
   position: static;
 }
+.PopupFullWindow .title-area {
+  position: absolute;
+}
 ._39oUCO1OuizVPwcnnv88no .qP17eBPXkfezFfexZ4hC3 {
   flex: unset;
 }
@@ -2211,7 +2214,6 @@ textarea.DialogInput.DialogInputPlaceholder.DialogTextInputBase.Focusable {
 .ModalDialogPopup .ModalDialogBody.DesktopUI .PopupFullWindow .TitleBar {
   height: 32px;
   padding: 2px;
-  transform: translate(4px, 0px);
 }
 
 .C9tvuqqEXGcrkcAtHrQ_R .title-area-children {

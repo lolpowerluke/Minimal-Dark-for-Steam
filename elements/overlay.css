@@ -194,13 +194,16 @@ button.DialogButton:enabled:active.gpfocus {
   color: var(--browser-overlay-close);
 }
 
-.C9tvuqqEXGcrkcAtHrQ_R {
+#popup_target .C9tvuqqEXGcrkcAtHrQ_R {
   background: var(--blacker-alt);
   display: flex;
   flex-direction: column;
   width: 100%;
   height: 100%;
   transition: opacity .2s linear;
+  box-sizing: border-box;
+  border: 1px solid var(--border);
+  border-radius: 10px;
 }
 
 .aqvbkhC1ejt4s8QvWA-c5 .TSlxCkeUMGwzmg21_WU8-._1W4bbifjEN3KdqKEhpmies {

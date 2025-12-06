@@ -29,12 +29,6 @@
   border-top-right-radius: 0px;
 }
 
-.friendsui-container .title-area-icon {
-  transform: translate(-4px, -1px);
-  transition: .25s ease-out;
-  margin-left: 2px;
-}
-
 .friendsui-container .title-area-icon.closeButton {
   border-radius: var(--corner);
   border-top-right-radius: 7px;
